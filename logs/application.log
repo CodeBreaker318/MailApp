@@ -1,0 +1,111 @@
+[2024-12-15 22:28:36] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-15 22:29:12] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Выбран файл с email-адресами: C:\Users\lita0\IdeaProjects\MailApp\src\main\resources\mails\emails.txt
+[2024-12-15 22:29:29] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Выбран файл с шаблоном письма: C:\Users\lita0\IdeaProjects\MailApp\src\main\resources\mails\content.txt
+[2024-12-15 22:29:30] [JavaFX Application Thread] INFO  com.example.mailapp.FileHandler - Загрузка email из файла: C:\Users\lita0\IdeaProjects\MailApp\src\main\resources\mails\emails.txt
+[2024-12-15 22:29:30] [JavaFX Application Thread] INFO  com.example.mailapp.FileHandler - Загрузка шаблона письма из файла: C:\Users\lita0\IdeaProjects\MailApp\src\main\resources\mails\content.txt
+[2024-12-15 22:29:30] [JavaFX Application Thread] INFO  com.example.mailapp.MailSender - Начало отправки сообщения на: baranina2000@gmail.com
+[2024-12-15 22:29:44] [JavaFX Application Thread] INFO  com.example.mailapp.MailSender - Сообщение успешно отправлено на: baranina2000@gmail.com
+[2024-12-15 22:29:44] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Отправлено письмо на: baranina2000@gmail.com
+[2024-12-15 22:29:44] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Рассылка завершена.
+[2024-12-15 22:34:04] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-15 22:34:18] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-15 22:34:26] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-15 22:35:15] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-15 22:36:06] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-15 22:36:41] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-15 22:38:58] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-15 22:39:27] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-15 22:40:28] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-15 22:42:28] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-15 23:25:51] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-15 23:26:25] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Выбран файл с шаблоном письма: C:\kursach\MailApp\MailApp\src\main\resources\mails\content.txt
+[2024-12-15 23:26:36] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Выбран файл с email-адресами: C:\kursach\MailApp\MailApp\src\main\resources\mails\emails.txt
+[2024-12-15 23:26:44] [JavaFX Application Thread] INFO  com.example.mailapp.FileHandler - Загрузка email из файла: C:\kursach\MailApp\MailApp\src\main\resources\mails\emails.txt
+[2024-12-15 23:26:44] [JavaFX Application Thread] INFO  com.example.mailapp.FileHandler - Загрузка шаблона письма из файла: C:\kursach\MailApp\MailApp\src\main\resources\mails\content.txt
+[2024-12-15 23:26:44] [JavaFX Application Thread] INFO  com.example.mailapp.MailSender - Начало отправки сообщения на: max.kudriashov.game@gmail.com
+[2024-12-15 23:26:45] [JavaFX Application Thread] INFO  com.example.mailapp.MailSender - Сообщение успешно отправлено на: max.kudriashov.game@gmail.com
+[2024-12-15 23:26:45] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Отправлено письмо на: max.kudriashov.game@gmail.com
+[2024-12-15 23:26:45] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Рассылка завершена.
+[2024-12-15 23:33:53] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 1 started executing tests.
+[2024-12-15 23:33:54] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 1 finished executing tests.
+[2024-12-15 23:35:16] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 2 started executing tests.
+[2024-12-15 23:35:17] [Test worker] INFO  com.example.mailapp.MailSender - Проверка подключения к SMTP-серверу.
+[2024-12-15 23:35:17] [Test worker] INFO  com.example.mailapp.MailSender - Подключение к SMTP-серверу успешно.
+[2024-12-15 23:35:17] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 2 finished executing tests.
+[2024-12-15 23:35:26] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 3 started executing tests.
+[2024-12-15 23:35:26] [Test worker] INFO  com.example.mailapp.FileHandler - Загрузка email из файла: C:\Users\maxku\AppData\Local\Temp\emails112048235650394887425.txt
+[2024-12-15 23:35:26] [Test worker] INFO  com.example.mailapp.FileHandler - Загрузка email из файла: C:\Users\maxku\AppData\Local\Temp\emails_invalid50670902604842587.txt
+[2024-12-15 23:35:26] [Test worker] INFO  com.example.mailapp.FileHandler - Загрузка шаблона письма из файла: C:\Users\maxku\AppData\Local\Temp\template6754113661840886304.txt
+[2024-12-15 23:35:26] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 3 finished executing tests.
+[2024-12-15 23:35:38] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 4 started executing tests.
+[2024-12-15 23:35:39] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 4 finished executing tests.
+[2024-12-15 23:38:16] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 5 started executing tests.
+[2024-12-15 23:38:17] [Test worker] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-15 23:38:17] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 5 finished executing tests.
+[2024-12-16 00:56:53] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-16 00:57:07] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Выбран файл с email-адресами: C:\kursach\MailApp\MailApp\src\main\resources\mails\emails.txt
+[2024-12-16 00:57:14] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Выбран файл с шаблоном письма: C:\kursach\MailApp\MailApp\src\main\resources\mails\content.txt
+[2024-12-16 00:57:15] [JavaFX Application Thread] INFO  com.example.mailapp.FileHandler - Загрузка email из файла: C:\kursach\MailApp\MailApp\src\main\resources\mails\emails.txt
+[2024-12-16 00:57:15] [JavaFX Application Thread] INFO  com.example.mailapp.FileHandler - Загрузка шаблона письма из файла: C:\kursach\MailApp\MailApp\src\main\resources\mails\content.txt
+[2024-12-16 00:57:15] [JavaFX Application Thread] INFO  com.example.mailapp.MailSender - Начало отправки сообщения на: max.kudriashov.game@gmail.com
+[2024-12-16 00:57:16] [JavaFX Application Thread] INFO  com.example.mailapp.MailSender - Сообщение успешно отправлено на: max.kudriashov.game@gmail.com
+[2024-12-16 00:57:16] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Отправлено письмо на: max.kudriashov.game@gmail.com
+[2024-12-16 00:57:16] [JavaFX Application Thread] INFO  com.example.mailapp.MailSender - Начало отправки сообщения на: reshetov0312@yandex.ru
+[2024-12-16 00:57:17] [JavaFX Application Thread] INFO  com.example.mailapp.MailSender - Сообщение успешно отправлено на: reshetov0312@yandex.ru
+[2024-12-16 00:57:17] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Отправлено письмо на: reshetov0312@yandex.ru
+[2024-12-16 00:57:17] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Рассылка завершена.
+[2024-12-16 01:49:00] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-16 01:51:52] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 1 started executing tests.
+[2024-12-16 01:51:53] [Test worker] INFO  com.example.mailapp.FileHandler - Загрузка email из файла: C:\Users\maxku\AppData\Local\Temp\emails18547349651100055838.txt
+[2024-12-16 01:51:53] [Test worker] INFO  com.example.mailapp.FileHandler - Загрузка email из файла: C:\Users\maxku\AppData\Local\Temp\emails_invalid440519077226373095.txt
+[2024-12-16 01:51:53] [Test worker] INFO  com.example.mailapp.FileHandler - Загрузка шаблона письма из файла: C:\Users\maxku\AppData\Local\Temp\template8527848711739668602.txt
+[2024-12-16 01:51:53] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 1 finished executing tests.
+[2024-12-16 03:40:13] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-16 03:40:20] [JavaFX Application Thread] WARN  com.example.mailapp.Controller - Файл с email-адресами не выбран.
+[2024-12-16 03:41:32] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-16 03:43:18] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-16 03:44:01] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-16 03:44:11] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Выбран файл с email-адресами: C:\kursach\MailApp\MailApp\src\main\resources\mails\emails.txt
+[2024-12-16 03:44:22] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Выбран файл с шаблоном письма: C:\kursach\MailApp\MailApp\src\main\resources\mails\content.txt
+[2024-12-16 03:44:24] [JavaFX Application Thread] INFO  com.example.mailapp.FileHandler - Загрузка email из файла: C:\kursach\MailApp\MailApp\src\main\resources\mails\emails.txt
+[2024-12-16 03:44:24] [JavaFX Application Thread] INFO  com.example.mailapp.FileHandler - Загрузка шаблона письма из файла: C:\kursach\MailApp\MailApp\src\main\resources\mails\content.txt
+[2024-12-16 03:44:24] [JavaFX Application Thread] INFO  com.example.mailapp.MailSender - Начало отправки сообщения на: max.kudriashov.game@gmail.com
+[2024-12-16 03:44:25] [JavaFX Application Thread] INFO  com.example.mailapp.MailSender - Сообщение успешно отправлено на: max.kudriashov.game@gmail.com
+[2024-12-16 03:44:25] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Отправлено письмо на: max.kudriashov.game@gmail.com
+[2024-12-16 03:44:25] [JavaFX Application Thread] INFO  com.example.mailapp.MailSender - Начало отправки сообщения на: reshetov0312@yandex.ru
+[2024-12-16 03:44:25] [JavaFX Application Thread] INFO  com.example.mailapp.MailSender - Сообщение успешно отправлено на: reshetov0312@yandex.ru
+[2024-12-16 03:44:25] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Отправлено письмо на: reshetov0312@yandex.ru
+[2024-12-16 03:44:25] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Рассылка завершена.
+[2024-12-16 04:06:01] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-16 04:16:51] [JavaFX Application Thread] WARN  com.example.mailapp.Controller - Файл с email-адресами не выбран.
+[2024-12-16 04:17:28] [JavaFX Application Thread] ERROR com.example.mailapp.Controller - Файлы с email-адресами или шаблоном письма не выбраны.
+[2024-12-16 04:41:47] [JavaFX Application Thread] WARN  com.example.mailapp.Controller - Файл с email-адресами не выбран.
+[2024-12-16 04:44:58] [JavaFX Application Thread] WARN  com.example.mailapp.Controller - Файл с email-адресами не выбран.
+[2024-12-16 04:47:28] [JavaFX Application Thread] ERROR com.example.mailapp.Controller - Файлы с email-адресами или шаблоном письма не выбраны.
+[2024-12-16 05:58:22] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-16 08:17:15] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-16 09:14:38] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 1 started executing tests.
+[2024-12-16 09:14:39] [Test worker] INFO  com.example.mailapp.FileHandler - Загрузка шаблона письма из файла: C:\Users\maxku\AppData\Local\Temp\template9607783387518219235.txt
+[2024-12-16 09:14:39] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 1 finished executing tests.
+[2024-12-16 09:15:16] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 2 started executing tests.
+[2024-12-16 09:15:17] [Test worker] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-16 09:15:17] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 2 finished executing tests.
+[2024-12-16 09:15:32] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 3 started executing tests.
+[2024-12-16 09:15:33] [Test worker] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-16 09:15:33] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 3 finished executing tests.
+[2024-12-16 09:15:39] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 4 started executing tests.
+[2024-12-16 09:15:40] [Test worker] INFO  com.example.mailapp.MailSender - Проверка подключения к SMTP-серверу.
+[2024-12-16 09:15:40] [Test worker] INFO  com.example.mailapp.MailSender - Подключение к SMTP-серверу успешно.
+[2024-12-16 09:15:40] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 4 finished executing tests.
+[2024-12-16 22:06:43] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Инициализация контроллера.
+[2024-12-16 22:07:50] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Выбран файл с email-адресами: C:\kursach\MailApp\MailApp\src\main\resources\mails\emails.txt
+[2024-12-16 22:08:01] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Выбран файл с шаблоном письма: C:\kursach\MailApp\MailApp\src\main\resources\mails\content.txt
+[2024-12-16 22:08:02] [JavaFX Application Thread] INFO  com.example.mailapp.FileHandler - Загрузка email из файла: C:\kursach\MailApp\MailApp\src\main\resources\mails\emails.txt
+[2024-12-16 22:08:02] [JavaFX Application Thread] INFO  com.example.mailapp.FileHandler - Загрузка шаблона письма из файла: C:\kursach\MailApp\MailApp\src\main\resources\mails\content.txt
+[2024-12-16 22:08:02] [JavaFX Application Thread] INFO  com.example.mailapp.MailSender - Начало отправки сообщения на: max.kudriashov.game@gmail.com
+[2024-12-16 22:08:03] [JavaFX Application Thread] INFO  com.example.mailapp.MailSender - Сообщение успешно отправлено на: max.kudriashov.game@gmail.com
+[2024-12-16 22:08:03] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Отправлено письмо на: max.kudriashov.game@gmail.com
+[2024-12-16 22:08:03] [JavaFX Application Thread] INFO  com.example.mailapp.MailSender - Начало отправки сообщения на: reshetov0312@yandex.ru
+[2024-12-16 22:08:04] [JavaFX Application Thread] INFO  com.example.mailapp.MailSender - Сообщение успешно отправлено на: reshetov0312@yandex.ru
+[2024-12-16 22:08:04] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Отправлено письмо на: reshetov0312@yandex.ru
+[2024-12-16 22:08:04] [JavaFX Application Thread] INFO  com.example.mailapp.Controller - Рассылка завершена.
