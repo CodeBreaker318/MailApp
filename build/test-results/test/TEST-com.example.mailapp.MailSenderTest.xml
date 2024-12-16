@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.mailapp.MailSenderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-16T06:15:40" hostname="DESKTOP-9JCTRK6" time="0.54">
+  <properties/>
+  <testcase name="testConnectionToSmtpServer()" classname="com.example.mailapp.MailSenderTest" time="0.54"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[дек. 16, 2024 9:15:40 AM javax.mail.Session loadResource
+WARNING: expected resource not found: /META-INF/javamail.default.address.map
+]]></system-err>
+</testsuite>
